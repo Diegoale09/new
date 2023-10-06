@@ -1,0 +1,12 @@
+*.xml
+*.html
+*.jpg
+*.png
+*.jpeg
+*.code-workspace
+*.mp4
+*.log
+.DS_Store
+*.pyc
+*.webm
+*.zip

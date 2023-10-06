@@ -1,0 +1,10 @@
+CONFIG:
+  BROWSER:
+    CHROME: chrome
+    FIREFOX: firefox
+  AMBIENTE: 
+    URL:
+      TST: https://tst01-produtocliente.bancorbras.com.br/
+  TIMEOUT: 60
+
+
